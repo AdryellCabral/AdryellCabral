@@ -1,8 +1,8 @@
 ### Hi there, i'm Adryell! 
  <div width="100%">
   <a href="https://github.com/AdryellCabral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryellCabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryellCabral&layout=compact&langs_count=6&theme=dark" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryellCabral&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryellCabral&layout=compact&langs_count=6&theme=vision-friendly-dark" alt="stats"/>
 </div>    
   
 <div style="display: inline_block"><br>
